@@ -6,6 +6,8 @@
 
         lTest = ""
 
+        lTest = "abcde"
+
     End Sub
 
 End Class
