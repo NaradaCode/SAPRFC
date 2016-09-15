@@ -6,7 +6,7 @@
 
         lTest = ""
 
-        lTest = "abcdefghi"
+        lTest = "abcdefghiffffff"
 
     End Sub
 
